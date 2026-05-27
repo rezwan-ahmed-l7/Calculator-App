@@ -1,6 +1,3 @@
-# Calculator-App
-My first Software Development Project, a Calculator app using Java and JavaFX 
-
 # Calculator App
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
