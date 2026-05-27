@@ -1,4 +1,4 @@
-# 🧮 Calculator App
+# Calculator App
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -12,7 +12,7 @@
 
 ---
 
-# 📌 About The Project
+# About The Project
 
 This project was developed as my first Software Development Project to practice GUI development, event handling, and object-oriented programming concepts using Java and JavaFX.
 
@@ -20,21 +20,21 @@ The application focuses on simplicity, responsiveness, and a visually clean user
 
 ---
 
-# ✨ Features
+# Features
 
-✔️ Basic Arithmetic Operations  
+Basic Arithmetic Operations  
 - Addition (+)  
 - Subtraction (-)  
 - Multiplication (×)  
 - Division (÷)
 
-✔️ Advanced Functions  
+Advanced Functions  
 - Square (x²)  
 - Square Root (√)  
 - Percentage (%)  
 - Decimal Point Handling
 
-✔️ User Interface  
+User Interface  
 - Clean and modern design  
 - Dark Mode support  
 - Responsive button layout  
@@ -42,7 +42,7 @@ The application focuses on simplicity, responsiveness, and a visually clean user
 
 ---
 
-# 📸 Screenshot
+# Screenshot
 
 <p align="center">
   <img width="785" alt="Calculator App Screenshot" src="https://github.com/user-attachments/assets/ad40b97b-7b3f-418b-b85f-2d12fa16432a" />
@@ -50,7 +50,7 @@ The application focuses on simplicity, responsiveness, and a visually clean user
 
 ---
 
-# 🛠️ Technologies Used
+# Language & Tools
 
 | Technology | Purpose |
 |---|---|
@@ -61,7 +61,7 @@ The application focuses on simplicity, responsiveness, and a visually clean user
 
 ---
 
-# 🚀 Getting Started
+# Getting Started
 
 ## Prerequisites
 
@@ -74,25 +74,25 @@ Before running this project, make sure you have installed:
 
 ---
 
-# ⚙️ Installation & Run
+# Installation & Run
 
-## 1️⃣ Clone the Repository
+## 1️ Clone the Repository
 
 ```bash
 git clone https://github.com/rezwanahmedtorabee-source/calculator-app.git
 ```
 
-## 2️⃣ Open Project
+## 2️ Open Project
 
 Open the project folder in VS Code or your preferred IDE.
 
-## 3️⃣ Install Dependencies
+## 3️ Install Dependencies
 
 ```bash
 mvn clean install
 ```
 
-## 4️⃣ Run the Application
+## 4️ Run the Application
 
 ```bash
 mvn javafx:run
@@ -100,7 +100,7 @@ mvn javafx:run
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 calculator-app/
@@ -116,7 +116,7 @@ calculator-app/
 
 ---
 
-# 🎯 Learning Goals
+# Learning Goals
 
 This project helped me practice:
 
@@ -129,28 +129,23 @@ This project helped me practice:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
-- Scientific Calculator Features
 - Keyboard Input Support
 - Calculation History
-- Theme Customization
-- Better Animations & UI Effects
+- Dual display
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ### Rezwan Ahmed
 
-CSE Student | Java & Software Development Enthusiast
-
-- GitHub: 
-  :contentReference[oaicite:0]{index=0}
+CSE Student | Software Development Enthusiast
 
 ---
 
-# ⭐ Support
+# Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
 It motivates me to build more projects and improve my development skills.
