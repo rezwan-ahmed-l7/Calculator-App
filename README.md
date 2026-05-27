@@ -10,12 +10,10 @@
 
 ## Features
 
-- Basic Arithmetic Operations (`+`, `-`, `×`, `÷`)
-- Keyboard input support
-- Clean and modern user interface
-- Error handling (Division by zero, invalid input)
-- Responsive design
-
+- Clean and modern user interface with an attractive color scheme
+- Basic Arithmetic Operations (`+`, `-`, `×`, `÷`) and proper decimal point handling
+- Advanced functions: Square (x²), Square Root (√), Percentage (%)
+  
 ---
 
 ## Screenshot
