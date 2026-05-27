@@ -13,6 +13,7 @@
 - Clean and modern user interface with an attractive color scheme
 - Basic Arithmetic Operations (`+`, `-`, `×`, `÷`) and proper decimal point handling
 - Advanced functions: Square (x²), Square Root (√), Percentage (%)
+- Dark mode added
   
 ---
 
