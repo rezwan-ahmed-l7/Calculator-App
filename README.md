@@ -147,5 +147,5 @@ CSE Student | Software Development Enthusiast
 
 # Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
-It motivates me to build more projects and improve my development skills.
+- If you like this project, consider giving it a ⭐ on GitHub.
+- It motivates me to build more projects and improve my development skills. Thank you 
