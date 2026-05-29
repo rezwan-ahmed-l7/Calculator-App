@@ -1,63 +1,75 @@
-# Calculator App
+# Modern JavaFX Calculator
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
   <img src="https://img.shields.io/badge/JavaFX-007ACC?style=for-the-badge&logo=java&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+
 </p>
 
 <p align="center">
-  A clean and modern Calculator application built using <b>Java</b> and <b>JavaFX</b>.
+  A modern desktop calculator application built using <b>Java</b> and <b>JavaFX</b>.
 </p>
 
 ---
 
 # About The Project
 
-This project was developed as my first Software Development Project to practice GUI development, event handling, and object-oriented programming concepts using Java and JavaFX.
+This project was developed to practice GUI development, event-driven programming, and object-oriented programming concepts using Java and JavaFX.
 
-The application focuses on simplicity, responsiveness, and a visually clean user experience while supporting both basic and advanced mathematical operations.
+The application provides a clean and responsive interface while supporting both basic and advanced mathematical operations.
 
 ---
 
 # Features
 
-Basic Arithmetic Operations  
-- Addition (+)  
-- Subtraction (-)  
-- Multiplication (×)  
-- Division (÷)
-
-Advanced Functions  
-- Square (x²)  
-- Square Root (√)  
-- Percentage (%)  
-- Decimal Point Handling
-
-User Interface  
-- Clean and modern design  
-- Dark Mode support  
-- Responsive button layout  
-- Color-enhanced UI
+* Basic arithmetic operations
+* Percentage and decimal calculations
+* Square and square root functions
+* Responsive JavaFX interface
+* Dark-themed modern UI
 
 ---
 
 # Screenshot
 
 <p align="center">
+  
   <img width="785" alt="Calculator App Screenshot" src="https://github.com/user-attachments/assets/ad40b97b-7b3f-418b-b85f-2d12fa16432a" />
+  
 </p>
+
+---
+
+# Concepts Used
+
+* Object-Oriented Programming (OOP)
+* Event-Driven Programming
+* JavaFX GUI Development
+* Maven Dependency Management
+* Application UI Structuring
+
+---
+
+# Challenges Faced
+
+* Managing calculator button events efficiently
+* Handling decimal operations and edge cases
+* Designing a clean and responsive user interface
 
 ---
 
 # Language & Tools
 
-| Technology | Purpose |
-|---|---|
-| Java | Core Programming Language |
-| JavaFX | GUI Development |
-| Maven | Dependency Management & Build Tool |
-| VS Code | Development Environment |
+| Technology | Purpose                       |
+| ---------- | ----------------------------- |
+| Java       | Core Programming Language     |
+| JavaFX     | GUI Development               |
+| Maven      | Build & Dependency Management |
+| VS Code    | Development Environment       |
 
 ---
 
@@ -67,32 +79,32 @@ User Interface
 
 Before running this project, make sure you have installed:
 
-- Java JDK 17 or later
-- Maven
-- JavaFX SDK
-- VS Code (recommended)
+* Java JDK 17 or later
+* Maven
+* JavaFX SDK
+* VS Code or any Java-supported IDE
 
 ---
 
 # Installation & Run
 
-## 1️ Clone the Repository
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/rezwanahmedtorabee-source/calculator-app.git
 ```
 
-## 2️ Open Project
+## 2. Open the Project
 
-Open the project folder in VS Code or your preferred IDE.
+Open the project folder using VS Code or your preferred IDE.
 
-## 3️ Install Dependencies
+## 3. Install Dependencies
 
 ```bash
 mvn clean install
 ```
 
-## 4️ Run the Application
+## 4. Run the Application
 
 ```bash
 mvn javafx:run
@@ -116,24 +128,25 @@ calculator-app/
 
 ---
 
-# Learning Goals
+# Learning Outcomes
 
-This project helped me practice:
+This project helped me improve my understanding of:
 
-- JavaFX UI Design
-- Event Handling
-- Object-Oriented Programming
-- GUI Application Structure
-- Maven Project Management
-- Problem Solving & Debugging
+* JavaFX UI Design
+* Event Handling
+* Object-Oriented Programming
+* GUI Application Structure
+* Maven Project Management
+* Debugging & Problem Solving
 
 ---
 
 # Future Improvements
 
-- Keyboard Input Support
-- Calculation History
-- Dual display
+* Keyboard Input Support
+* Calculation History
+* Scientific Calculator Features
+* Improved Error Handling
 
 ---
 
@@ -141,11 +154,10 @@ This project helped me practice:
 
 ### Rezwan Ahmed
 
-CSE Student | Software Development Enthusiast
+CSE Student | Java & Software Development Enthusiast
 
 ---
 
 # Support
 
-- If you like this project, consider giving it a ⭐ on GitHub.
-- It motivates me to build more projects and improve my development skills. Thank you 
+If you found this project useful, consider giving it a ⭐ on GitHub.
