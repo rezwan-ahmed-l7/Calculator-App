@@ -118,15 +118,25 @@ mvn javafx:run
 calculator-app/
 │
 ├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   └── resources/
+│   └── main/
+│       ├── java/
+│       │   ├── calculator/
+│       │   │   └── Calculator.java
+│       │   └── module-info.java
+│       │
+│       └── resources/
+│           └── calculator/
+│               ├── primary.fxml
+│               ├── secondary.fxml
+│               └── Calculator.png
 │
+├── target/
+│
+├── .gitignore
 ├── pom.xml
+├── LICENSE
 └── README.md
 ```
-
----
 
 # Learning Outcomes
 
