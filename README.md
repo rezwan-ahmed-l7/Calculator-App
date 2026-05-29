@@ -154,7 +154,7 @@ This project helped me improve my understanding of:
 
 ### Rezwan Ahmed
 
-CSE Student | Java & Software Development Enthusiast
+B.Sc Engg in CSE Student | Software Development Enthusiast
 
 ---
 
