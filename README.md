@@ -2,16 +2,16 @@
 
 <p align="center">
 
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
   <img src="https://img.shields.io/badge/JavaFX-007ACC?style=for-the-badge&logo=java&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-
 </p>
 
 <p align="center">
-  A modern desktop calculator application built using <b>Java</b> and <b>JavaFX</b>.
+  A modern desktop calculator application that I've built using <b>Java</b> and <b>JavaFX</b> throughout my Computer Science & Engineering learning journey.
 </p>
 
 ---
