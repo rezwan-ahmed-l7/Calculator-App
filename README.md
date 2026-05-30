@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  A modern desktop calculator application that I've built using <b>Java</b> and <b>JavaFX</b> throughout my Computer Science & Engineering learning journey.
+  A modern Desktop Calculator Application that I've built using <b>Java</b> and <b>JavaFX</b> for my Software Development Project Course.
 </p>
 
 ---
